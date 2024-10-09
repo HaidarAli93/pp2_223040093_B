@@ -124,7 +124,7 @@ public class FormDaftarNasabah extends JFrame {
 				txtOutput.append("\nkonfirmasi Password		: " + konfirmasiPw);
 				txtOutput.append("\nFrekuensi Transaksi Per Bulan	: " + frekuensiTransaksi);
 				txtOutput.append("\nTgl Lahir			: " + tglLahir);
-				txtOutput.append("\n======================================");
+				txtOutput.append("\n==========================================");
 			}
 		});
 		
